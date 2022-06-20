@@ -1,0 +1,102 @@
+@charset "utf-8";
+/* CSS Document */
+:root{
+	--bg-negro:#000;
+	--color-negro:#323232;
+	--color-gris:#232222;
+	--bg-icon:#f4f4f4;
+	--color-titulo:#222;
+	--bg-azul:#50BECC;
+
+	}
+
+	body{
+		font-family: 'Open Sans', sans-serif;	
+		font-size: 14px;
+		color: #555;
+	}
+
+	h1,h2,h3,h4,h5,h6,footer{
+		font-family: 'Open Sans', sans-serif;
+	}
+	
+	p{
+		font-family: 'Open Sans', sans-serif;	
+		
+	}
+	
+
+	header{
+		background-color: var(--color-gris);
+		text-align: center;
+	}
+
+
+	#introduccion{
+		background-color:#FFFFFF;
+		}
+
+	#introduccion h1{
+		font-size: 40px;	
+		font-weight: 200;
+		padding-top: 10%;
+		color: #fff;
+		padding-bottom: 5%;
+		
+
+	} 
+
+	#introduccion p{
+		font-size: 18px;
+		text-align: justify;
+		color: #fff;
+	
+}
+
+.section{
+	padding: 7% 0;
+}
+
+
+
+footer{
+	background-color: #232222;
+	color:#fff;
+	border-top: 15px solid #232222;
+	padding: 5px 0;
+}
+
+
+.redes-icon i{
+	color: #fff;
+	font-size: 50px;
+	letter-spacing: 1px;
+}
+
+#servicios-publicidad h3{
+	color:#000000;
+	font-size:30px;
+	padding-top: 5%;
+	text-transform: uppercase;
+	
+}
+
+
+#servicios-social media strategy p{
+	color:#232222;
+	font-size: 14px;
+	text-align: justify;
+	letter-spacing: 1px;
+	
+}
+
+#servicios-produccion visual h2{
+	color:#50BECC;
+	font-size:30px;
+	padding-top: 5%;
+	text-transform: uppercase;
+	font-weight: 900;
+}
+
+
+
